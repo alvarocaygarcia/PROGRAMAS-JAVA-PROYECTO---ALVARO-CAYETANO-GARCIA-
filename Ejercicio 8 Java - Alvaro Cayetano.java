@@ -11,7 +11,11 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
 
+            //MODIFICACIÓN HECHA PARA EL EJERCICIO 1 DE ENTORNOS DE DESARROLLO
+            int edad=1;
 
+
+            
             //Ejercicio 8
 
             //A
